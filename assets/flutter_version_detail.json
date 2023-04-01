@@ -1,0 +1,10 @@
+{
+  "frameworkVersion": "2.10.2-0.0.pre.290",
+  "channel": "unknown",
+  "frameworkRevision": "cae62bc120ba8d38aa7a6a68b7aa8240f44f51bb",
+  "frameworkCommitDate": "2022-08-17 13:19:54 +0000",
+  "engineRevision": "090f4fac2ccb02f26140b4ec2b72a97d4d1e89d6",
+  "dartSdkVersion": "2.16.1",
+  "projectCid": "",
+  "bdFrameworkTag": "bd2.10.2-20"
+}
